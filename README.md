@@ -85,8 +85,8 @@ Requires Python 3.11+ (the Archetype AI Python client needs ≥ 3.10), an Archet
 
 ```bash
 # Clone
-git clone https://github.com/archetypeai/archetypeai-wind-turbine-demo-model-serving.git
-cd archetypeai-wind-turbine-demo-model-serving
+git clone https://github.com/archetypeai/archetypeai-wind-turbine-demo-inference-api.git
+cd archetypeai-wind-turbine-demo-inference-api
 
 # Fetch the dataset (see above) into ./data/
 
